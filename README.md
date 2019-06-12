@@ -1,5 +1,12 @@
-Muzix- service application
+Implemented Microservice-pattern Using 3 servers:
+1. spring-config-server
+2. spring-eureka-server
+3. zuul-gateway-server
 
+for two clients:
+Musix-service & User-service
+
+Muzix-service application
 1.Implemented CRUD operations.
 2.Added custom exceptions.
 3.Added global exceptions using @ControllerAdvice.
